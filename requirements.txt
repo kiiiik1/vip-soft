@@ -1,3 +1,0 @@
-markdown>=3.3.4
-weasyprint>=57.0
-Pygments>=2.13.0
