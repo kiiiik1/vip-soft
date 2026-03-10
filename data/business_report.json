@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-03-09T22:03:50.905620",
+  "project_name": "VIP Soft",
+  "version": "1.0.0",
+  "tools": [
+    "search",
+    "skills_finder",
+    "batch_rename",
+    "code_analyzer"
+  ],
+  "monetization_features": [
+    "GitHub Sponsors integration",
+    "Premium tool access",
+    "Custom development services",
+    "Technical consulting"
+  ],
+  "revenue_streams": [
+    "Open source sponsorships",
+    "Commercial licensing",
+    "Consulting services",
+    "Content monetization"
+  ],
+  "target_markets": [
+    "Software developers",
+    "Technical teams",
+    "Enterprise clients",
+    "Educational institutions"
+  ]
+}
